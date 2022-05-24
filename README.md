@@ -1,1 +1,1 @@
-The URL for this page is: 
+The URL for this page is: https://harvardmapcollection.github.io/gh-pages-template/
