@@ -27,7 +27,6 @@ _Source: [National Geographic Kids](https://www.natgeokids.com/uk/discover/anima
 ## More turtle media
 
 ![This turtle looks angry](media/turtle-2.png)
-![Youtube video of turtles hatching](https://www.youtube.com/watch?v=_YfYHFM3Das)
 
 
 
